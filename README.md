@@ -2,7 +2,7 @@
 <div class="container">
 
   <a href="https://github.com/Fe-Nick-S" >
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fe-Nick-S&langs_count=5&layout=compact&theme=vue" align="left" height="170px" style="margin: 0 15px 0 0" alt="Nick Fedoseev github stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fe-Nick-S&langs_count=10&hide=html,css,scss,&layout=compact&theme=vue" align="left" height="170px" style="margin: 0 15px 0 0" alt="Nick Fedoseev github stats" />
   </a>
   
   <a href="https://github.com/Fe-Nick-S" >
